@@ -1,0 +1,1 @@
+Pequeño programa en Java utilizando Eclipse, se crea un calendario de partidos de fútbol, a partir de el cargo d archivos txt de equipos para luego sortear el calendario, generando resultados de partido y una tabla de clasificación para los equipos de la liga.
